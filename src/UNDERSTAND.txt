@@ -1,0 +1,4 @@
+so in this one we just implemented the navbar to be sticky and not get hidden on scrolling.
+
+things done - 
+*added top-fixed to the classname in the navbar.js 
